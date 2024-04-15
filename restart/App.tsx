@@ -9,9 +9,32 @@ const App = () => {
       <ScrollView>
 
    <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
+   <Flatcard />
     </ScrollView>
     </SafeAreaView>
   )
 }
+
 
 export default App

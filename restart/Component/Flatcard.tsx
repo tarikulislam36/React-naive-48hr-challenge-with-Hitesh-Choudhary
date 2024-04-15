@@ -3,10 +3,19 @@ import React from 'react'
 
 export default function Flatcard() {
   return (
-    <View>
-      <Text>Flatcard</Text>
+    <View style={styles.Background}>
+      <Text style={styles.headingText}>Flatcard</Text>
     </View>
   )
 }
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+    headingText: {
+        color: 'red',
+        fontSize: 30,
+    },
+    Background:{
+        backgroundColor: 'white',
+    }
+
+})
